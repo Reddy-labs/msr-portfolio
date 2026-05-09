@@ -20,7 +20,6 @@
     "gray-matter": "^4.0.3",
     "lucide-react": "^1.14.0",
     "next": "13.5.1",
-    "next-sanity": "^12.4.5",
     "postcss": "8.4.30",
     "react": "18.2.0",
     "react-dom": "18.2.0",
